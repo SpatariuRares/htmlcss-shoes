@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* common */
+.box{
+    height: 100vh;
+    position: relative;
+}
+
+#scarpa1{
+    background-color: red;
+}
+
+#scarpa2{
+    background-color: rgb(0, 38, 255);
+}
+
+#scarpa3{
+    background-color: rgb(212, 0, 255);
+}
+
+/* common */
+
+
+/* header */
+ul{
+    position: fixed;
+    margin: 20px;
+    right: 0;
+    z-index: 2;
+}
+
+li{
+    display: inline;
+   
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    /* padding: 10px; */
+    width: 50px;
+    aspect-ratio: 1/1;
+    border-radius: 50%;
+    background-color: white;
+    display: inline-block;
+    text-align: center;
+    line-height: 50px;
+    font-size: 30px;
+}
+
+/* main */
+/*.scarpa{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    height: 50%;
+}
+
+.scarpa img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}*/
+/* main */
+
+
+/* header */
+
+/* debug */
+
+/* debug */
