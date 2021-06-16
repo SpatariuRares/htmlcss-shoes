@@ -9,6 +9,10 @@ html{
      scroll-behavior: smooth;
 }
 
+body{
+    font-family: 'Rubik Mono One', sans-serif;
+}
+
 .box{
     height: 100vh;
     position: relative;
@@ -39,7 +43,7 @@ ul{
 
 li{
     display: inline;
-   
+   margin-left: 20px;
 }
 
 a{
@@ -67,16 +71,22 @@ a{
     color: yellow;
 }
 
+.scarpa .imagine{
+    height: 80%;
+}
+
+
 .scarpa img{
     height: 100%;
     width: 100%;
-    object-fit: cover;
+    object-fit: contain;
+}
+
+.scarpa h2{
+    height: 20%;
 }
 
 /* main */
-
-
-/* header */
 
 /* debug */
 
