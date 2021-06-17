@@ -49,7 +49,6 @@ li{
 a{
     text-decoration: none;
     color: black;
-    /* padding: 10px; */
     width: 50px;
     aspect-ratio: 1/1;
     border-radius: 50%;
@@ -71,19 +70,11 @@ a{
     color: yellow;
 }
 
-.scarpa .imagine{
-    height: 80%;
-}
-
 
 .scarpa img{
     height: 100%;
     width: 100%;
     object-fit: contain;
-}
-
-.scarpa h2{
-    height: 20%;
 }
 
 /* main */
